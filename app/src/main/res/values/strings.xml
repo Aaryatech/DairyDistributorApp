@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Distributor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_notification">Notification</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="fragment_home">HOME</string>
+    <string name="str_date">DATE</string>
+    <string name="fragment_order_history">ORDER HISTORY</string>
+    <string name="fragment_notification">NOTIFICATION</string>
+    <string name="fragment_">ORDER HISTORY</string>
+    <string name="fragment_profile">PROFILE</string>
+    <string name="fragment_special_order">SPECIAL ORDER</string>
+    <string name="fragment_regular_order">REGULAR ORDER</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_order_history">Order History</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_settings">Language</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_regular_order">Regular Order</string>
+
+    <string name="str_language">Select language</string>
+    <string name="str_quantity">Quantity</string>
+    <string name="str_issued_crates">Issued Crates</string>
+    <string name="str_received_crates">Received Crates</string>
+    <string name="str_pending_crates_balance">Pending Crates Balance</string>
+    <string name="str_pending_amount">Pending Amount</string>
+    <string name="str_received_amount">Received Amount</string>
+    <string name="str_order_total">Order Total</string>
+    <string name="str_crates">Pending Crates : </string>
+    <string name="str_pending">Pending Amount : </string>
+    <string name="str_total_amount">Total Amount : </string>
+    <string name="str_verify">verify</string>
+    <string name="str_name">Name</string>
+    <string name="str_mobile">Mobile Number</string>
+    <string name="str_address">Address</string>
+    <string name="str_password">Password</string>
+    <string name="str_update">update</string>
+    <string name="str_item">Item</string>
+    <string name="str_rate">Rate</string>
+    <string name="str_qty">Qty</string>
+    <string name="str_total">Total</string>
+    <string name="str_regular_order">Regular Order</string>
+    <string name="str_special_order">Special Order</string>
+    <string name="str_mrp">MRP</string>
+    <string name="str_logout_msg">Are you sure you want to logout?</string>
+    <string name="str_ok">OK</string>
+    <string name="str_cancel">CANCEL</string>
+    <string name="str_place_order">Place Order</string>
+    <string name="menu_special_order">Special Order</string>
+
+    <string name="str_confirm_action">Confirm Action</string>
+    <string name="str_exit_msg">Do you want to exit?</string>
+
+    <string-array name="lauguage">
+        <item>English</item>
+        <item>मराठी</item>
+    </string-array>
+
+</resources>

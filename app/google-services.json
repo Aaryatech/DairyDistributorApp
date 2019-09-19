@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "139848339980",
+    "firebase_url": "https://dairydistributorapp.firebaseio.com",
+    "project_id": "dairydistributorapp",
+    "storage_bucket": "dairydistributorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139848339980:android:c54630c8f107186d",
+        "android_client_info": {
+          "package_name": "com.ats.dairydistributorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139848339980-v8ebf1qcqj1of49g2f4a7hn04mps798c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ats.dairydistributorapp",
+            "certificate_hash": "37ec8d8f30b65dc2723d50b8b7da23408690dbb7"
+          }
+        },
+        {
+          "client_id": "139848339980-o1n2lhri71kpo452si1jubefo6u6p34f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKLUBJI2VG6rezRLJJDfQu1CW08MoontM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139848339980-o1n2lhri71kpo452si1jubefo6u6p34f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

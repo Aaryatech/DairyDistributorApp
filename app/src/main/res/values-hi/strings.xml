@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="fragment_home">होम</string>
+    <string name="str_date">तारीख</string>
+    <string name="fragment_order_history">ऑर्डर इतिहास</string>
+    <string name="fragment_notification">सूचना</string>
+    <string name="fragment_profile">प्रोफाइल</string>
+    <string name="fragment_special_order">विशेष ऑर्डर</string>
+    <string name="fragment_regular_order">नियमित ऑर्डर</string>
+
+    <string name="menu_home">होम</string>
+    <string name="menu_order_history">ऑर्डर इतिहास</string>
+    <string name="menu_profile">प्रोफाइल</string>
+    <string name="menu_settings">भाषा</string>
+    <string name="menu_logout">बाहेर पडणे</string>
+    <string name="menu_regular_order">नियमित ऑर्डर</string>
+
+    <string name="str_language">भाषा निवडा</string>
+    <string name="str_quantity">प्रमाण</string>
+    <string name="str_issued_crates">जारी क्रेट</string>
+    <string name="str_received_crates">मिळाले क्रेट</string>
+    <string name="str_pending_crates_balance">प्रलंबित क्रेट शिल्लक</string>
+    <string name="str_pending_amount">प्रलंबित रक्कम</string>
+    <string name="str_received_amount">प्राप्त रक्कम</string>
+    <string name="str_order_total">एकूण</string>
+    <string name="str_crates">कप्रलंबित क्रेट : </string>
+    <string name="str_pending">प्रलंबित रक्कम : </string>
+    <string name="str_total_amount">एकूण रक्कम : </string>
+    <string name="str_verify">सत्यापित करा</string>
+    <string name="str_name">नाव</string>
+    <string name="str_mobile">मोबाइल नंबर</string>
+    <string name="str_address">पत्ता</string>
+    <string name="str_password">पासवर्ड</string>
+    <string name="str_update">अद्यतन करा</string>
+    <string name="str_item">आयटम</string>
+    <string name="str_rate">दर</string>
+    <string name="str_qty">प्रमाण</string>
+    <string name="str_total">एकूण</string>
+    <string name="str_regular_order">नियमित ऑर्डर</string>
+    <string name="str_special_order">खास ऑर्डर</string>
+    <string name="str_mrp">एमआरपी</string>
+    <string name="str_logout_msg">आपण लॉगआउट करू इच्छिता?</string>
+    <string name="str_ok">ठीक आहे</string>
+    <string name="str_cancel">रद्द करा</string>
+    <string name="str_place_order">ऑर्डर</string>
+    <string name="menu_special_order">विशेष ऑर्डर</string>
+
+    <string name="str_confirm_action">बाहेर पडा</string>
+    <string name="str_exit_msg">आपण बाहेर पडू इच्छिता?</string>
+
+</resources>
